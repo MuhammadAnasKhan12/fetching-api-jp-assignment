@@ -1,0 +1,32 @@
+.navbar1{
+    background-color:rgb(35, 93, 50);
+    position: sticky;
+}
+#navbarScroll {
+    display: flex;
+    justify-content: space-evenly;
+    }
+.Nav1{
+    display: flex;
+    justify-content: space-around;
+    width: 400px;
+}
+.login{
+    display: flex;
+}
+.Container h4{
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    color: aliceblue;
+}
+.search{
+    border-radius: 10px 0px 0px 10px;
+    width: 400px;
+    background-color:whitesmoke ;
+}
+.rr{
+    color: aliceblue;
+}
+.rr:hover{
+    color: black;
+}
